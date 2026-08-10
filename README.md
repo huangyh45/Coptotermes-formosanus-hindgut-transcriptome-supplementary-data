@@ -3,5 +3,5 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
   
 - transcripts.fasta.gz: assembled hindgut transcriptome of reads unmapped to the genome of Coptotermes formosanus, including the transcripts from the flagellates  
 - transcripts2anno.tsv.gz: function annotation of the transcripts  
-- czh.Trinity.kraken2.gz: taxa annotation of the transcripts by Kraken2
+- czh.Trinity.kraken2.gz: taxa identification of the transcripts by Kraken2
 
