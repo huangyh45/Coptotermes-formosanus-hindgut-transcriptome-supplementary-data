@@ -12,4 +12,5 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - Holomastigotoides_nootkatone_vs_CK_TSS_DEG.csv: differential expression analysis results of Holomastigotoides spp. of nootkatone vs control
 - Pseudotrichonympha_azadirachtin_vs_CK_TSS_DEG.csv: differential expression analysis results of Pseudotrichonympha grassii of azadirachtin vs control
 - Pseudotrichonympha_nootkatone_vs_CK_TSS_DEG.csv: differential expression analysis results of Pseudotrichonympha grassii of nootkatone vs control
+- transcriptome_sample_QC.xlsx: general and QC parameters of each transcriptome
 
