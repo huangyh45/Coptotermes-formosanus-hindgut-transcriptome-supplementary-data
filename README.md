@@ -4,7 +4,9 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - Flagellate_count.zip: statistical parameters and results of flagellate counts
 - Trophallaxis_.zip: statistical parameters and results of trophallaxis frequency
 - filter-paper_consumption.zip: statistical parameters and results of filter-paper consumption
-- transcripts.fasta.gz: assembled hindgut transcriptome of reads unmapped to the genome of Coptotermes formosanus, including the transcripts from the flagellates  
+- Distance.zip: statistical parameters and results of locomotor distance
+- Survival.zip: statistical parameters and results of survival curves
+- transcripts.fasta.gz: assembled hindgut transcriptome of reads unmapped to the genome of Coptotermes formosanus, including the transcripts from the flagellates 
 - transcripts2anno.tsv.gz: function annotation of the transcripts  
 - czh.Trinity.kraken2.gz: taxa identification of the transcripts by Kraken2
 - azadirachtin_vs_CK_DEG.tsv: differential expression analysis results of termite hindgut of azadirachtin vs control
