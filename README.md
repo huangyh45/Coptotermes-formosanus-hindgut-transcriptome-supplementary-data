@@ -12,6 +12,7 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - czh.Trinity.kraken2.gz: taxa identification of the transcripts by Kraken2
 - transcriptome_sample_metadata.csv: metadata of of each transcriptome
 - gene_count_matrix.csv: raw count of termite genes
+- gene_normalized_matrix.tsv: normalized expression matrix of termite genes
 - azadirachtin_vs_CK_all_results.tsv: differential expression analysis results of termite hindgut of azadirachtin vs control
 - azadirachtin_vs_CK_log2FC_95CI.csv: Confidence Interval of log2FC of genes in termite hindgut of azadirachtin vs control
 - nootkatone_vs_CK_all_results.tsv: differential expression analysis results of termite hindgut of nootkatone vs control
