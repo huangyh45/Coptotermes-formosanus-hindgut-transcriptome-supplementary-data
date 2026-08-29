@@ -18,7 +18,7 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - nootkatone_vs_CK_all_results.tsv: differential expression analysis results of termite hindgut of nootkatone vs control
 - nootkatone_vs_CK_log2FC_95CI.csv: Confidence Interval of log2FC of genes in termite hindgut of nootkatone vs control
 - nootkatone_vs_azadirachtin_all_results.csv: differential expression analysis results of termite hindgut of nootkatone vs azadirachtin
-- nootkatone_vs_azadirachtin_DEG_with_CI.csv: Confidence Interval of log2FC of DEGs in termite hindgut of nootkatone vs azadirachtin
+- nootkatone_vs_azadirachtin_log2FC_95CI.csv: Confidence Interval of log2FC of DEGs in termite hindgut of nootkatone vs azadirachtin
 - metamonada_transcript_raw_count.zip: raw count of flagellate transcripts
 - flagellate_azadirachtin_vs_CK_all_results.zip: taxon-specific differential expression analysis results of flagellates of azadirachtin vs control
 - flagellate_nootkatone_vs_CK_all_results.csv: taxon-specific differential expression analysis results of flagellates of nootkatone vs control
