@@ -31,3 +31,4 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - nootkatone_vs_CK_significant_GO.csv: significantly enriched GO terms of DEGs in termite hindgut of nootkatone vs control
 - flagellate_azadirachtin_vs_CK_GO_all_significant.csv: significantly enriched GO terms of DEGs in flagellates of azadirachtin vs control
 - flagellate_nootkatone_vs_CK_GO_all_significant.csv: significantly enriched GO terms of DEGs in flagellates of nootkatone vs control
+- flagellate_nootkatone_vs_azadirachtin_GO_all_significant.csv: significantly enriched GO terms of DEGs in flagellates of nootkatone vs azadirachtin
