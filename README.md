@@ -11,9 +11,9 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - transcripts2anno.tsv.gz: function annotation of the transcripts  
 - czh.Trinity.kraken2.gz: taxa identification of the transcripts by Kraken2
 - azadirachtin_vs_CK_all_results.tsv: differential expression analysis results of termite hindgut of azadirachtin vs control
-- DEG_with_CI_azadirachtin_CK.tsv: Confidence Interval of log2FC of DEGs in termite hindgut of azadirachtin vs control
+- azadirachtin_vs_CK_log2FC_95CI.csv: Confidence Interval of log2FC of genes in termite hindgut of azadirachtin vs control
 - nootkatone_vs_CK_all_results.tsv: differential expression analysis results of termite hindgut of nootkatone vs control
-- DEG_with_CI_nootkatone_CK.tsv: Confidence Interval of log2FC of DEGs in termite hindgut of nootkatone vs control
+- nootkatone_vs_CK_log2FC_95CI.csv: Confidence Interval of log2FC of genes in termite hindgut of nootkatone vs control
 - nootkatone_vs_azadirachtin_all_results.csv: differential expression analysis results of termite hindgut of nootkatone vs azadirachtin
 - nootkatone_vs_azadirachtin_DEG_with_CI.csv: Confidence Interval of log2FC of DEGs in termite hindgut of nootkatone vs azadirachtin
 - Cononympha_azadirachtin_vs_CK_TSS_DEG.csv: differential expression analysis results of Cononympha spp. of azadirachtin vs control
