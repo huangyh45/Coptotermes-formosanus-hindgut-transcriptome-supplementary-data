@@ -33,4 +33,5 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - flagellate_azadirachtin_vs_CK_GO_all_significant.csv: significantly enriched GO terms of DEGs in flagellates of azadirachtin vs control
 - flagellate_nootkatone_vs_CK_GO_all_significant.csv: significantly enriched GO terms of DEGs in flagellates of nootkatone vs control
 - flagellate_nootkatone_vs_azadirachtin_GO_all_significant.csv: significantly enriched GO terms of DEGs in flagellates of nootkatone vs azadirachtin
+
   (Note: 'NKT' represents nootkatone, 'YLS' represents azadirachtin, if present)
