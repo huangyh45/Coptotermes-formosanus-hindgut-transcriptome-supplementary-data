@@ -10,6 +10,7 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - transcripts.fasta.gz: assembled hindgut transcriptome of reads unmapped to the genome of Coptotermes formosanus, including the transcripts from the flagellates 
 - transcripts2anno.tsv.gz: function annotation of the transcripts  
 - czh.Trinity.kraken2.gz: taxa identification of the transcripts by Kraken2
+- transcriptome_sample_metadata.csv: metadata of of each transcriptome
 - gene_count_matrix.csv: raw count of termite genes
 - azadirachtin_vs_CK_all_results.tsv: differential expression analysis results of termite hindgut of azadirachtin vs control
 - azadirachtin_vs_CK_log2FC_95CI.csv: Confidence Interval of log2FC of genes in termite hindgut of azadirachtin vs control
