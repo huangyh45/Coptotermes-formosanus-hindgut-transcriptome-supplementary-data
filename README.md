@@ -24,6 +24,6 @@ Supplementary data for the research "Comparative hindgut transcriptomics reveals
 - Pseudotrichonympha_nootkatone_vs_CK_TSS_DEG.csv: differential expression analysis results of Pseudotrichonympha grassii of nootkatone vs control
 - transcriptome_sample_QC.xlsx: general and QC parameters of each transcriptome
 - azadirachtin_CK_significant_GO.tsv: significantly enriched GO terms of DEGs in termite hindgut of azadirachtin vs control
-- nootkatone_CK_significant_GO.tsv: significantly enriched GO terms of DEGs in termite hindgut of nootkatone vs control
+- nootkatone_vs_CK_significant_GO.csv: significantly enriched GO terms of DEGs in termite hindgut of nootkatone vs control
 - Flagellate_azadirachtin_vs_CK_GO_significant_Up_Down.tsv: significantly enriched GO terms of DEGs in flagellates of azadirachtin vs control
 - Flagellate_nootkatone_vs_CK_GO_significant_Up_Down.tsv: significantly enriched GO terms of DEGs in flagellates of nootkatone vs control
